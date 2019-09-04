@@ -11,7 +11,7 @@ end
 
 def reverse_each_word2 (string)
   array = string.split
-  array.collect {
+  array.collect {array.reverse}
 end
 
 
