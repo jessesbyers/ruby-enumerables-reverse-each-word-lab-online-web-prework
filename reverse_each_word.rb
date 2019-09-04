@@ -14,7 +14,7 @@ def reverse_each_word (string)
   reversed_array = []
   counter = 0 
   while counter < array.length do
-  array.collect {
+  array.collect {string.reverse}
   counter +=1 
 end
 
