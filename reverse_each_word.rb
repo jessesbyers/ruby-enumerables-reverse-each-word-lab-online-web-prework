@@ -7,8 +7,7 @@ def reverse_each_word (string)
   reversed_array << array[counter].reverse
   counter +=1 
 end
-reversed_array
-reversed_string = 
+reversed_array.join(' ')
 end
 
 
