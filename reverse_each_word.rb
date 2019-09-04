@@ -1,13 +1,15 @@
 def reverse_each_word (string)
   array = [string.split]
-  reversed_array = []
-  counter = 0 
-  while counter < array.length do
-  reversed_array << array[counter].reverse
-  counter +=1 
+#  reversed_array = []
+#  counter = 0 
+#  while counter < array.length do
+#  reversed_array << array[counter].reverse
+#  counter +=1 
+#end
+#reversed_array.join("")
 end
-reversed_array.join("")
-end
+
+
 #  new_string = ""
 #  array.each do |word|
 #    new_string << "#{word.reverse}
