@@ -1,6 +1,5 @@
 def reverse_each_word (string)
-  reversed_string = string.reverse
-  array = [string.split]
+  array = [string.split].reverse
   reversed_string = ''
   counter = 0 
   while counter < array.length 
