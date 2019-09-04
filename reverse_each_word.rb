@@ -10,45 +10,6 @@ reversed_array.join(' ')
 end
 
 
-#  new_string = ""
-#  array.each do |word|
-#    new_string << "#{word.reverse}
-#  end
-#  new_string.join("")
-#end
-
-
-#  reversed_array = []
-#  final_array = []
-#  counter = 0 
-#  while counter < array.length 
-#  reversed_array << string.reverse
-#  counter +=1 
-#end
-#reversed_array.reverse.join("")
-#return reversed_array.join("")
-
-#end
-  
-#  array = [string.split("")]
-  
-#  reversed_array = []
-#  reversed_array << array.each do  
-#    reversed_array[string].reverse
-#  end
-#    string.reverse
-#    end
-#return reversed_array.join("")
-#end
-
-
-#  new_array = []
-#  new_array << array.each do |letters|
-#    letters.split
-#  end
-#  new_array.join
-# end 
-
 
 
 
