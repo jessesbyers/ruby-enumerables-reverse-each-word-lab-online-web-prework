@@ -10,7 +10,8 @@ reversed_array.join(' ')
 end
 
 def reverse_each_word2 (string)
-  array.collect = string.split.reverse
+  array = string.split
+  array.collect {
 end
 
 
