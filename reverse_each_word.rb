@@ -12,7 +12,7 @@
 def reverse_each_word (string)
   array = string.split
   reversed_array = []
-  array.collect do |flip|
+  array.collect do
     reversed_array << string.reverse
   end
   reversed_array.join(' ')
